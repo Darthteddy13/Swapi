@@ -1,0 +1,21 @@
+Part1
+DarthVader's height: https://swapi.dev/api/people/4/
+Alderaan's pop: https://swapi.dev/api/people/4/
+Millenium Falcon's mfg: https://swapi.dev/api/starships/10/
+c-3po's race: https://swapi.dev/api/starships/10/ https://swapi.dev/api/species/2/
+Title of each film with obi-wan:https://swapi.dev/api/people/10/         "https://swapi.dev/api/films/1/",
+             "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+
+part2
+1: Post accepts only a body. in json form. It's expecting {"Text": "string"}
+
+2:Get returns an array of all posts
+3:practiceapi.devmountain.com/api/555
+4:/posts/filter/ may respond with codes 200 or 409
+5:practiceapi.devmountain.com/api { "text": "Kevin Taylor"}
+6:practiceapi.devmountain.com/api/{id}/ {"text": "Sanguine"}
+
